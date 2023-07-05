@@ -12,6 +12,7 @@
     "noImplicitReturns": true,
     "alwaysStrict": true,
     "noFallthroughCasesInSwitch": true,
+    
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "strict": true,
